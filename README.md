@@ -22,8 +22,20 @@ The Rise of Agile Methodologies (2000s): Agile methodologies transformed softwar
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
+1. Requirement Analysis: This initial phase involves gathering and analyzing the business needs and user requirements to ensure the project’s goals are clearly understood.
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+2. Design: In this phase, the system’s architecture and design are planned, outlining how the software will be structured, including data flow, user interfaces, and modules.
+
+3. Implementation (Coding): During implementation, the actual code is written based on the design specifications. Developers translate the design into a functional software application.
+
+4. Testing: The software is rigorously tested for bugs, errors, and other issues to ensure it meets the specified requirements and functions correctly.
+
+5. Deployment: After successful testing, the software is deployed to the production environment, making it available for use by the end-users.
+
+6. Maintenance: This final phase involves ongoing support, updates, and improvements to the software to fix issues, add new features, and ensure it continues to meet user needs over time.
+
+
+**Compare** and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
